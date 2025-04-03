@@ -1,0 +1,5 @@
+anonasc=int(input("insira o ano do seu nascimento"))
+
+idade=2025-anonasc
+
+print(f"você tem:{idade} ")
