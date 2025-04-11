@@ -7,10 +7,11 @@ palpites.append(palpite)
 
 while palpite!=sorteio:
 
+    print("você errou")
     palpite=int(input("insira seu palpite "))
     palpites.append(palpite)
         
-    print("você errou")
+
     
 
 else:
